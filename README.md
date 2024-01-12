@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hAnubhav
+- 👋 Hi, I’m @Anubhav
 - 👀 I’m interested in  Software Development
 - 🌱 I’m currently learning  Web Development
 - 💞️ I’m looking to collaborate on Everything
